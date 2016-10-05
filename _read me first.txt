@@ -1,0 +1,62 @@
+Real World Microsoft Access Database Protection and Security  
+Author Garry Robinson
+ISBN 1590591267    
+Publishers Apress 
+
+>> Download support file.
+
+About the Book and the Demonstration Material
++++++++++++++++++++++++++++++++++++++++++++++
+
+The goal of the material in this book is to improve Access protection and security,
+and, as a result, the material in the book does not target a particular skill level, such
+as developer or DBA. More than half of the book is at a level that a competent
+Access DBA could manage, and, where possible, I have set up the more complex
+demonstration examples as plug-and-play forms. In other words, you can use the
+forms in your database with only a few modifications to some constants at the top
+of the VBA code. Naturally, because I regularly write for developers’ magazines,
+there are some examples that will keep the very skilled end of town happy.
+
+To use any of the downloads, you need to have a copy of the book onhand. If you do not 
+have a copy, head to www.apress.com and search for Garry Robinson or goto
+www.vb123.com/map/.
+
+Whats In The Zip File
++++++++++++++++++++++
+
+In the download .ZIP file, you will find a separate database for Access 97 called
+grMap97.mdb, one for Access 2000 called grMap2000.mdb, and one for Access 2002/
+2003 called grMap2002.mdb. Then follow these steps to use the demonstration
+databases:
+1. Open the database suited to your version of Access.
+2. Select the chapter number from the drop-down list at the top of the form
+(shown in Figure 1-1).
+3. Select the object that you want to review and click the View Object/Code
+button at the bottom of the window.
+
+The demonstration database holds approximately 40 different objects. Some
+of these modules are re-used for different demonstrations. Some of the modules and
+form class modules require references to other common Microsoft libraries. If this
+is the case, I have mentioned the library reference in the header of the module.
+After you have downloaded the database, you should keep a copy of the demonstration
+database in its original form in the .ZIP just in case you need to return
+the demonstration database to its original state. Because Access has improved
+since 1997, some of the demonstrations apply only to the later versions. 
+
+Apart from the Access demonstration material, you will find a html file with  
+download hyperlinks relevant to the material in the chapter. You will find more 
+information on this at the end of every chapter.
+
+Finally there is a PDF format document that has all the additional information 
+about how to setup a protected folder in Windows XP. This requires that you have 
+a copy of the book open on Chapter 12.
+
+
+
+Enjoy the downloads and enjoy the book.
+Feel free to send comments, good or critical to me at  access@gr-fx.com
+
+Garry Robinson
+Aussie Author and Developer
+
+
